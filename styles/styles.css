@@ -47,6 +47,10 @@ header .container {
 }
 
 /* products */
+section {
+   margin-bottom: 8rem;
+}
+
 .product__title {
    display: flex;
    justify-content: space-between;
